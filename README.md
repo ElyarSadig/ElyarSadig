@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elyar Sadig</h1>
-<h3 align="center">I'm a Gopher! 🦫</h3>
+<h3 align="center">I'm a backend developer</h3>
 <br />
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
